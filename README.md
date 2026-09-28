@@ -101,7 +101,4 @@ The project uses customer shopping behavior data containing information such as:
 
 The analysis helps understand customer purchasing patterns and provides insights into product performance, customer segments, discounts, shipping methods, and subscription behavior.
 
-## 👨‍💻 Author
-Ajay C
-
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
